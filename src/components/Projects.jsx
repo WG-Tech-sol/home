@@ -5,12 +5,12 @@ const Projects = () => {
     {
       name: "Whales Market",
       description: "A market place for whales using React.",
-      img: ".public/images/whales.png",
+      img: "./images/whales.png",
     },
     {
       name: "Invader PC",
       description: "A gaming PC store built with WordPress and React.",
-      img: ".public/images/invader.png",
+      img: "./images/invader.png",
     },
     {
       name: "Preply Website",
