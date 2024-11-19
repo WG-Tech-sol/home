@@ -56,7 +56,7 @@ const Projects = () => {
             >
               <img
                 className="w-full h-48 object-cover rounded-t-lg mb-4"
-                src={`/${project.img}`}
+                src={`${project.img}`}
                 alt={project.name}
               />
               <h3 className="text-2xl font-bold mb-2">{project.name}</h3>
