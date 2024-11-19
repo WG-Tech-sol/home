@@ -5,7 +5,7 @@ const Projects = () => {
     {
       name: "Whales Market",
       description: "A market place for whales using React.",
-      img: "./images/whales.png",
+      img: ".public/images/whales.png",
     },
     {
       name: "Invader PC",
