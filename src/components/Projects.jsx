@@ -10,7 +10,7 @@ const Projects = () => {
     {
       name: "Invader PC",
       description: "A gaming PC store built with WordPress and React.",
-      img: "./images/invader.png",
+      img: ".public/images/invader.png",
     },
     {
       name: "Preply Website",
