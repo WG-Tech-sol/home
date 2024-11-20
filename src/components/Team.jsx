@@ -52,7 +52,7 @@ const Team = () => {
         "Designing web and mobile apps, and creating brand assets from scratch.",
     },
     {
-      name: "Aiza",
+      name: "Jaweriya",
       role: "MERN Stack Developer",
       img: "./images/aiza mern.jpeg",
       skills:
