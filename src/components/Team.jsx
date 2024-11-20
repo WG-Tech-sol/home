@@ -52,7 +52,7 @@ const Team = () => {
         "Designing web and mobile apps, and creating brand assets from scratch.",
     },
     {
-      name: "Aiza",
+      name: "Jaweriya",
       role: "MERN Stack Developer",
       img: "./images/aiza mern.jpeg",
       skills:
@@ -144,7 +144,7 @@ const Team = () => {
           {members.map((member) => (
             <div
               key={member.name}
-              className="bg-white p-6 rounded-lg shadow-lg text-center transform transition duration-300 hover:scale-105"
+              className="bg-white p-6 rounded-lg shadow-lg text-center"
             >
               <img
                 className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"

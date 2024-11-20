@@ -16,7 +16,7 @@ const Hero = () => {
         </p>
         <a
           href="#contact"
-          className="mt-3 inline-block bg-blue-600 hover:bg-blue-700 text-white py-3 px-6 rounded-full text-lg shadow-lg transform transition hover:scale-105"
+          className="mt-3 inline-block bg-blue-600 hover:bg-blue-700 text-white py-3 px-6 rounded-full text-lg shadow-lg"
         >
           Get in Touch
         </a>

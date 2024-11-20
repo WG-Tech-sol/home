@@ -36,7 +36,7 @@ const Testimonials = () => {
             >
               <img
                 className="w-24 h-24 object-cover rounded-full mb-4"
-                src={`/${testimonial.img}`}
+                src={`./${testimonial.img}`}
                 alt={testimonial.name}
               />
               <p className="text-gray-600 italic mb-4">
